@@ -40,5 +40,6 @@ dependencies {
 }
 
 task tests(type: Test) {
-    useJUnitPlatform {}
+    useJUnitPlatform {
+    }
 }
